@@ -1,3 +1,4 @@
+***Remove all placeholder texts after the header, for example "Optional Screenshots / Media goes here.", including this one.***
 # Expected Behavior
 Explain the expected behavior as clearly as possible.
 
@@ -6,6 +7,10 @@ Explain the current behavior as clearly as possible, and how it differs from the
 
 # Media
 Optional Screenshots / Media goes here.
+
+**NOTE**: We only accept links from YouTube, Odysee, Snag.gy, Imgur, GitHub and Streamable. Nothing else.
+
+If you can't publish to those basic sources, your issue **will be ignored**.
 
 # Reproduce
 Steps to reproduce the issue
