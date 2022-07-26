@@ -18,7 +18,7 @@ While build-support for Mac may be provided, we don't test those versions (due t
 
 Windows is also supported, and is tested by the testers before release. Do note though that no actual Windows testing is usually done by the developers, most of the focus goes to Linux because it's a superior platform (X11; Wayland), and because it offers overall better performance in most cases on Meadow Riders.
 
-## FAQ
+## QA
 * What render engine does Meadow Riders use?
   * Vulkan, vulkan for everything except Mac.
 * What game engine does Meadow Riders use?
