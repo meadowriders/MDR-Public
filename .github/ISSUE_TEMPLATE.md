@@ -8,7 +8,7 @@ Explain the current behavior as clearly as possible, and how it differs from the
 # Media
 Optional Screenshots / Media goes here.
 
-**NOTE**: We only accept links from YouTube, Odysee, Snag.gy, Imgur, GitHub and Streamable. Nothing else.
+**NOTE**: We only accept links from YouTube, Odysee, Snag.gy, Imgur, GitHub, Streamable and Revolt. Nothing else.
 
 If you can't publish to those basic sources, your issue **will be ignored**.
 
