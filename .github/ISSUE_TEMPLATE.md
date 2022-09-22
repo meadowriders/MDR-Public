@@ -36,3 +36,8 @@ Also, please fill out these fields:
 > Graphics Card:
 
 > Processor:
+
+# Contact
+This section is optional, it may be used to contact you directly if needed.
+***
+- Discord: (UID) or (Discord#0001)
