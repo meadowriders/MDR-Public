@@ -1,2 +1,2 @@
 # MDR Issues
-Public issues page for Meadow Riders.
+Public issues / suggestions page for Meadow Riders.
